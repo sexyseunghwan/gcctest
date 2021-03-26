@@ -4,7 +4,7 @@ int main() {
 
     int e = 1,s = 1,m = 1;
     int new_e = 1, new_s = 1, new_m = 1;
-    int result = 1;// 최종답으로 도출될 결과
+    int result = 1;// 최종답으로 도출될 결과.....
     
     scanf("%d %d %d",&e,&s,&m);
 
