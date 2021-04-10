@@ -3,9 +3,9 @@
 
 int main() {
 
-    char voca[10];
+    unsigned long long asd = 10;
 
-    printf("hello");
+    printf("%llu",asd-20);
     
     return 0;
 
